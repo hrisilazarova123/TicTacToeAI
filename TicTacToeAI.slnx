@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/GameLogic/">
+    <File Path="Board.cs" />
+  </Folder>
+  <Project Path="TicTacToeAI/TicTacToeAI.csproj" />
+</Solution>
